@@ -1,0 +1,6 @@
+print('Nama : Asep Rohmat')
+print('Nama Panggilan : Asep')
+print('Umur : 19')
+print('Tempat Tanggal Lahir : Sukabumi, 30 Agustus 2005')
+print('Makanan Favorit : Bukan rokok')
+print('Minuman Favorit : Apa aja asal bukan minuman keras')
